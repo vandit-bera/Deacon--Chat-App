@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "197647736175",
+    "project_id": "deacon-69332",
+    "storage_bucket": "deacon-69332.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197647736175:android:9887688ba7cb5f86c0dc9a",
+        "android_client_info": {
+          "package_name": "com.example.deacon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197647736175-bgds0i0gh89lp5nfqb3us8rngueub675.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpTGKnxUCW9WK5j5xC_AdRi57kxzxb_iQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197647736175-bgds0i0gh89lp5nfqb3us8rngueub675.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
