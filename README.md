@@ -8,7 +8,7 @@
 
 # Deacon Chat-App
 
-### Some of screen-shots of my Deacon Chat-App Apllication.
+<!-- ### Some of screen-shots of my Deacon Chat-App Apllication. -->
 
 <!-- ![1]() -->
 
