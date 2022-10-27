@@ -23,6 +23,7 @@
 
 # 🛠️Technologies used
 
+- Android
 - Java
 
 ---
