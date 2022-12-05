@@ -8,18 +8,25 @@
 
 # Deacon Chat-App
 
-<!-- ### Some of screen-shots of my Deacon Chat-App Apllication. -->
+### Some of screen-shots of my Deacon Chat-App Apllication.
 
-<!-- ![1]() -->
+### Home page
+![1](./ss/Home-Page.jpg)
+### Status of the User
+![1](./ss/Status.jpg)
+### Private chat
+![1](./ss/Private-chat.jpg)
+### Private chat message reaction
+![1](./ss/Reaction-of-message.jpg)
+### Group chat
+![1](./ss/Group-chat.jpg)
+### Group chat message reaction
+![1](./ss/Group-chat-reaction.jpg)
+### Delete message
+![1](./ss/Delete-message.jpg)
 
-
-### 👇Live Demo
-
-[Link]()
 
 ---
-
-
 
 # 🛠️Technologies used
 
